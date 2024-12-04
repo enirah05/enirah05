@@ -1,16 +1,67 @@
-## Hi there 👋
+#  Harine K  | Computer Science Engineer
 
-<!--
-**enirah05/enirah05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 "Passion for real-time projects, coding, and innovative design solutions!"  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍🎓 Education  
+📍 *Sri Manakula Vinayagar Engineering College*  
+Bachelor of Computer Science and Engineering  
+- *CGPA*: 9.02 (2021 - Present)
+
+📍 *St. Joseph of Cluny Higher Secondary School*  
+- *Higher Secondary Education (12th Grade)*: 91.3% (2020 - 2021)  
+- *Secondary Education (10th Grade)*: 91.8% (2018 - 2019)
+
+---
+
+## 💻 Technical Skills  
+- *Programming*: C/C++, Java, Python, JavaScript (React.js, Next.js)  
+- *Database Management*: MySQL  
+- *Soft Skills: ✨ *Critical Thinking, Creativity, Accountability, Quick Learning, Meticulousness  
+
+### 🌱 *Areas of Interest*  
+- ⚙ Operating Systems  
+- 🗃 Database Management Systems  
+
+---
+
+## 🚀 Projects  
+
+### 🗳 Transparent Voting using Blockchain & ML  
+- Developed an *Android e-voting app* with *blockchain technology* for secure vote updates.  
+- Implemented *facial recognition* and *biometric authentication* using machine learning for voter verification.  
+
+### ✅ To-Do List Interface (Mini Project)  
+- A web-based *task management tool* for creating, editing, prioritizing, and tracking tasks.  
+- Designed an intuitive user interface for effective task organization.
+
+---
+
+## 🏆 Certifications  
+
+- 🎖 *Wipro TalentNext Java Full Stack Certificate* (May 2024 - Sept 2024)  
+- 🎖 *Atharvo Machine Learning Internship* (Aug 2024 - Sept 2024)  
+- 🥇 *NPTEL Gold* - Introduction to Internet of Things (2024)  
+- 🥈 *NPTEL Elite* - Python for Data Science (2024)  
+- 🥈 *NPTEL Elite* - Database Management System (2023)  
+- 🛡 *IT Specialist* - JavaScript (Centriport Badge) (2022)  
+
+---
+
+## 🏅 Awards & Activities  
+- 🥉 *Third Place* in Eventima, a technical quest competition (2022)  
+
+---
+
+## 📬 Contact  
+ 
+✉ *Email*: [harine0510k@gmail.com](mailto:harine0510k@gmail.com)  
+🌐 *LinkedIn*: [linkedin.com/in/harinek](https://linkedin.com/in/harinek)  
+💻 *GitHub*: [github.com/enirah05](https://github.com/enirah05)  
+🧩 *LeetCode*: [leetcode.com/u/harine_5](https://leetcode.com/u/harine_5)  
+💡 *HackerRank*: [hackerrank.com/profile/harine0510k](https://hackerrank.com/profile/harine0510k)
+
+---
+
+> "Let’s build something extraordinary together!"
