@@ -16,7 +16,7 @@ Bachelor of Computer Science and Engineering
 ---
 
 ## 💻 Technical Skills  
-- *Programming*: C/C++, Java, Python, JavaScript (React.js, Next.js)  
+- *Programming*: C/C++, Java, Python, JavaScript  
 - *Database Management*: MySQL  
 - *Soft Skills: ✨ *Critical Thinking, Creativity, Accountability, Quick Learning, Meticulousness  
 
@@ -28,9 +28,10 @@ Bachelor of Computer Science and Engineering
 
 ## 🚀 Projects  
 
-### 🗳 Transparent Voting using Blockchain & ML  
-- Developed an *Android e-voting app* with *blockchain technology* for secure vote updates.  
-- Implemented *facial recognition* and *biometric authentication* using machine learning for voter verification.  
+### 🗳 AI Content Trading with Blockchain
+-  Developed a decentralized blockchain-based Digital Asset Management (DAM) platform.
+-  Integrated machine learning for secure, transparent trading of AI-generated assets.
+=  Eliminated centralized authority, enhancing user trust and fairness.
 
 ### ✅ To-Do List Interface (Mini Project)  
 - A web-based *task management tool* for creating, editing, prioritizing, and tracking tasks.  
@@ -41,7 +42,8 @@ Bachelor of Computer Science and Engineering
 ## 🏆 Certifications  
 
 - 🎖 *Wipro TalentNext Java Full Stack Certificate* (May 2024 - Sept 2024)  
-- 🎖 *Atharvo Machine Learning Internship* (Aug 2024 - Sept 2024)  
+- 🎖 *Atharvo Machine Learning Internship* (Aug 2024 - Sept 2024)
+- 🛡 *AWS Forage* – Solutions Architect Simulation (2024)  
 - 🥇 *NPTEL Gold* - Introduction to Internet of Things (2024)  
 - 🥈 *NPTEL Elite* - Python for Data Science (2024)  
 - 🥈 *NPTEL Elite* - Database Management System (2023)  
