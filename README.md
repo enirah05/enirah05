@@ -31,7 +31,7 @@ Bachelor of Computer Science and Engineering
 ### 🗳 AI Content Trading with Blockchain
 -  Developed a decentralized blockchain-based Digital Asset Management (DAM) platform.
 -  Integrated machine learning for secure, transparent trading of AI-generated assets.
-=  Eliminated centralized authority, enhancing user trust and fairness.
+-  Eliminated centralized authority, enhancing user trust and fairness.
 
 ### ✅ To-Do List Interface (Mini Project)  
 - A web-based *task management tool* for creating, editing, prioritizing, and tracking tasks.  
