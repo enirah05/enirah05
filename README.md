@@ -7,7 +7,7 @@
 ## 🧑‍🎓 Education  
 📍 *Sri Manakula Vinayagar Engineering College*  
 Bachelor of Computer Science and Engineering  
-- *CGPA*: 9.09 (2021 - Present)
+- *CGPA*: 9.15 (2021 - 2025)
 
 📍 *St. Joseph of Cluny Higher Secondary School*  
 - *Higher Secondary Education (12th Grade)*: 91.3% (2020 - 2021)  
